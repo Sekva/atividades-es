@@ -10,3 +10,12 @@ Saida:
 ```
 1 2 3
 ```
+
+##Questão 4
+O teste foi feito da seguinte forma:
+
+```
+bash-$ ruby questao4.rb $(cat arquivoTeste)
+```
+
+Onde "arquivoTeste" é um arquivo de texto genérico contendo a entrada.
